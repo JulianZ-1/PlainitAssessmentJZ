@@ -1,0 +1,13 @@
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\FIB.exe
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\FIB.deps.json
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\FIB.runtimeconfig.json
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\FIB.runtimeconfig.dev.json
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\FIB.dll
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\FIB.pdb
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.AssemblyInfoInputs.cache
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.AssemblyInfo.cs
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.csproj.CoreCompileInputs.cache
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.dll
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.pdb
+C:\Users\Zhu\Desktop\testing\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\FIB.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\bin\Debug\netcoreapp3.1\Maxchar.exe
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\bin\Debug\netcoreapp3.1\Maxchar.deps.json
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\bin\Debug\netcoreapp3.1\Maxchar.runtimeconfig.json
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\bin\Debug\netcoreapp3.1\Maxchar.runtimeconfig.dev.json
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\bin\Debug\netcoreapp3.1\Maxchar.dll
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\bin\Debug\netcoreapp3.1\Maxchar.pdb
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.csproj.AssemblyReference.cache
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.AssemblyInfoInputs.cache
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.AssemblyInfo.cs
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.csproj.CoreCompileInputs.cache
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.dll
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.pdb
+C:\Users\Zhu\Desktop\TEMP\plainit\Maxchar\Maxchar\obj\Debug\netcoreapp3.1\Maxchar.genruntimeconfig.cache
